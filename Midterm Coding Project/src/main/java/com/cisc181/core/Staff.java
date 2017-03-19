@@ -6,6 +6,7 @@ import com.cisc181.eNums.eTitle;
 
 public class Staff extends Employee {
 
+	//problem #9 looks like its been done already... Staff already modified
 	 private eTitle Title;
 
 	   public Staff(eTitle title){
